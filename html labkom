@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Laboratorium Komputer: UPN "Veteran" Jawa Timur</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+      <img src="https://uploads.onecompiler.io/43ppscv7b/43ppsdxpe/logo%20labkom.jpg" alt="" />
+      
+      <h1>LABORATORIUM KOMPUTER TEKNIK KIMIA UPNVJT</h1>
+      <p>PRAKTIKUM PEMROGRAMAN KOMPUTER</p>
+      
+      <ul>
+        <a href="https://drive.google.com/drive/folders/1--nAwAtlPmiCccbvE2a3NXcTitVD4cnR?usp=drive_link"><li>PENGUMUMAN</li></a>
+        <a href="https://drive.google.com/drive/folders/1--nAwAtlPmiCccbvE2a3NXcTitVD4cnR?usp=drive_link"><li>MODUL PRAKTIKUM</li></a>
+        <a href="https://drive.google.com/drive/folders/1--nAwAtlPmiCccbvE2a3NXcTitVD4cnR?usp=drive_link"><li>SOFTWARE PRAKTIKUM</li></a>
+        <a href="https://drive.google.com/drive/folders/1--nAwAtlPmiCccbvE2a3NXcTitVD4cnR?usp=drive_link"><li>PEMBAGIAN SESI</li></a>
+        <a href="https://drive.google.com/drive/folders/1--nAwAtlPmiCccbvE2a3NXcTitVD4cnR?usp=drive_link"><li>KEPERLUAN PRAKTIKUM</li></a>
+      </ul>
+  </body>
+</html>
+
